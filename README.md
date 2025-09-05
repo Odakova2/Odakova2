@@ -43,7 +43,6 @@ Personal portfolio site built with **R3F, Zustand, Next.js, Tailwind**.
 ---
 
 ### [3dEstate](https://github.com/Odakova2/3dEstate)  
-**Live:** [demo link]("link")  
 Interactive platform to explore **3D models** of buildings – outside and inside – for renting, selling, and immersive virtual tours.  
 Tech stack: **React, Three.js, Fiber, Drei, Zustand, Next.js, Tailwind**  
 

@@ -28,7 +28,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=bitbucket" />  
 <br/>
-<sub>Also experienced with: Scrum, Jira, Confluence, Zustand, MUI, Vercel, MariaDB</sub>
+Also experienced with: <strong>Scrum, Jira, Confluence, Zustand, MUI, Vercel, MariaDB</strong>
 </p>
 
 ---
